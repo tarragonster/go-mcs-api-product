@@ -1,1 +1,1 @@
-# go-mcs-api-order
+# go-mcs-api-product
